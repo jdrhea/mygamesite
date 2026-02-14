@@ -1,0 +1,20 @@
+button{
+    background-color: powderblue;
+    padding: 10px 20px;
+    font-family: "Gill Sans";
+    height: 40px;
+    width:80px;
+    border: none;
+}
+button:hover{
+    background-color:rgb(210, 210, 255);
+}
+img{
+    height:200px;
+    width:200px;
+}
+.game1{
+    width:250px;
+    background-color:lightgray;
+}
+
